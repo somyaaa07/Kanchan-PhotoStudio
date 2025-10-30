@@ -64,7 +64,7 @@ const CTA = () => {
             
             {/* ✅ Increased height for mobile */}
             <img
-              src="/cta-img.png"
+              src="/cta-im.jpeg"
               alt="Professional photoshoot"
               className="w-full h-[460px] sm:h-72 md:h-80 lg:h-96 xl:h-[480px] 2xl:h-[600px] object-cover"
             />

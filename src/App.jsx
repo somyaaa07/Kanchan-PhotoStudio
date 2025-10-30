@@ -11,6 +11,7 @@ import Stats from "./components/Stats";
 import Testimonials from "./components/Testimonial";
 import Footer from "./components/Footer";
 import CTA from "./components/CTA";
+import VideoSection from "./components/VideoSection";
 import ContactPage from "./components/contact/Contact";
 import Portfolio from "./components/Portfolio";
 import WhyChooseUs from "./components/WhyChoose";
@@ -53,6 +54,7 @@ const App = () => {
               <Stats />
               <VisualDiaryGallery /> {/* Gallery included */}
               <CTA />
+              <VideoSection/>
               <Portfolio />
               <WhyChooseUs />
               <Testimonials />
